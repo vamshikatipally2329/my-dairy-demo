@@ -1,5 +1,5 @@
 # my-dairy-demo
-<h1>this is my first repository</h1>
+this is my first repository
   <br>
-<h2>this is a ieda dairy
-</h2>
+this is a ieda dairy
+
